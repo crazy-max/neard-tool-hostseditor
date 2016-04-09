@@ -26,6 +26,10 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 | ------------------------|:------------------------:|:-------------:|:--------:|
 | **HostsEditor 1.1.0.0** ![](https://raw.github.com/crazy-max/neard-tool-hostseditor/master/img/star-20160403.png) | 2008/10/29 | [r1](https://github.com/crazy-max/neard-tool-hostseditor/releases/tag/r1) | [neard-hostseditor-1.1.0.0-r1.zip](https://github.com/crazy-max/neard-tool-hostseditor/releases/download/r1/neard-hostseditor-1.1.0.0-r1.zip) |
 
+## Sources
+
+* https://hostseditor.codeplex.com/
+
 ## Issues
 
 Issues must be reported on [Neard repository](https://github.com/crazy-max/neard/issues).<br />
