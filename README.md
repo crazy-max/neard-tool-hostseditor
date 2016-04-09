@@ -20,11 +20,11 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 
 ## Download
 
-![](https://raw.github.com/crazy-max/neard-app-hostseditor/master/img/star-20160403.png) : Default bundle on Neard.
+![](https://raw.github.com/crazy-max/neard-tool-hostseditor/master/img/star-20160403.png) : Default bundle on Neard.
 
 |                         | HostsEditor release date | Neard release | Download |
 | ------------------------|:------------------------:|:-------------:|:--------:|
-| **HostsEditor 1.1.0.0** ![](https://raw.github.com/crazy-max/neard-app-hostseditor/master/img/star-20160403.png) | 2008/10/29 | [r1](https://github.com/crazy-max/neard-app-hostseditor/releases/tag/r1) | [neard-hostseditor-1.1.0.0-r1.zip](https://github.com/crazy-max/neard-app-hostseditor/releases/download/r1/neard-hostseditor-1.1.0.0-r1.zip) |
+| **HostsEditor 1.1.0.0** ![](https://raw.github.com/crazy-max/neard-tool-hostseditor/master/img/star-20160403.png) | 2008/10/29 | [r1](https://github.com/crazy-max/neard-tool-hostseditor/releases/tag/r1) | [neard-hostseditor-1.1.0.0-r1.zip](https://github.com/crazy-max/neard-tool-hostseditor/releases/download/r1/neard-hostseditor-1.1.0.0-r1.zip) |
 
 ## Issues
 
