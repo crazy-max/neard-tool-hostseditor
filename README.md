@@ -9,7 +9,7 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 
 ```
 [-] neard
- | [-] apps
+ | [-] tools
  |  | [-] hostseditor 
  |  |  | [-] hostseditor1.1.0.0
  |  |     | neard.conf
